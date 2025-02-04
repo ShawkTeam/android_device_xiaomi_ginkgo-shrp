@@ -19,3 +19,4 @@ TW_INCLUDE_FASTBOOTD := true
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
+
